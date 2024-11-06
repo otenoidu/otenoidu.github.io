@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otenoidu.github.io/Aiv/sitemap_index.txt
+Sitemap: https://otenoidu.github.io/Iem/sitemap_index.txt
+Sitemap: https://otenoidu.github.io/gqt/sitemap_index.txt
+Sitemap: https://otenoidu.github.io/sqa/sitemap_index.txt
